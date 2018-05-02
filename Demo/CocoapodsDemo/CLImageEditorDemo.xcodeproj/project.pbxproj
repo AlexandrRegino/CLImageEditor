@@ -151,6 +151,11 @@
 			attributes = {
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = CALACULU;
+				TargetAttributes = {
+					AD5C1DFF18350DC400790989 = {
+						DevelopmentTeam = HP2Z75J9N2;
+					};
+				};
 			};
 			buildConfigurationList = AD5C1DFB18350DC400790989 /* Build configuration list for PBXProject "CLImageEditorDemo" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -327,6 +332,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = HP2Z75J9N2;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CLImageEditorDemo/CLImageEditorDemo-Prefix.pch";
 				INFOPLIST_FILE = "CLImageEditorDemo/CLImageEditorDemo-Info.plist";
@@ -342,6 +348,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = HP2Z75J9N2;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CLImageEditorDemo/CLImageEditorDemo-Prefix.pch";
 				INFOPLIST_FILE = "CLImageEditorDemo/CLImageEditorDemo-Info.plist";
